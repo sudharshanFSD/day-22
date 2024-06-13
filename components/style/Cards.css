@@ -1,0 +1,60 @@
+
+body{
+    display: flex;
+    justify-content: center;
+}
+.row {
+    background-color: rgba(20, 102, 224, 0.933);
+    padding: 30px;
+    margin: 100px;
+    width: fit-content;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+/* .container-fluid{
+    min-height: 100vh;
+    padding: 5rem;
+} */
+.card-body {
+    
+    padding: 10px;
+    text-align: start;
+
+}
+
+/* .container {
+    padding: 10px;
+    border-radius: 50px;
+    margin: auto;
+    text-align: center;
+    color: blue;
+    text-decoration-color: black;
+    width: 90%;
+    height: 100%;
+} */
+
+#card {
+    padding-left: 5px;  
+          gap: 10px;
+        
+          /* height: fit-content; */
+}
+/* #cards{
+ height: 480px;
+       border: black salmon;
+       border-color: black;
+} */
+/* .d-grid {
+    padding: 10px;
+} */
+
+/* .card-list {
+    padding-top: 30px;
+} */
+
+#title {
+    background-color: white;
+} 
